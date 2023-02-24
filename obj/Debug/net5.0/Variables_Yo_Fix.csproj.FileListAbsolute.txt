@@ -1,0 +1,16 @@
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\bin\Debug\net5.0\Variables_Yo_Fix.exe
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\bin\Debug\net5.0\Variables_Yo_Fix.deps.json
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\bin\Debug\net5.0\Variables_Yo_Fix.runtimeconfig.json
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\bin\Debug\net5.0\Variables_Yo_Fix.runtimeconfig.dev.json
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\bin\Debug\net5.0\Variables_Yo_Fix.dll
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\bin\Debug\net5.0\ref\Variables_Yo_Fix.dll
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\bin\Debug\net5.0\Variables_Yo_Fix.pdb
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.csproj.AssemblyReference.cache
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.AssemblyInfoInputs.cache
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.AssemblyInfo.cs
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.csproj.CoreCompileInputs.cache
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.dll
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\ref\Variables_Yo_Fix.dll
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.pdb
+C:\Users\Emily.fixico\source\repos\Variables_Yo_Fix\Variables_Yo_Fix\obj\Debug\net5.0\Variables_Yo_Fix.genruntimeconfig.cache
